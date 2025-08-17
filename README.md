@@ -1,4 +1,4 @@
-# Task Manager Application
+# Task Manager
 
 A full-stack task management application built with React (frontend) and Node.js/Express (backend) with MySQL database.
 
